@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pauseMenu",
+    "texture": "c491fd32-320d-4131-9013-6f20ff635f43",
+    "atlas": "",
+    "rect": [
+      30,
+      10,
+      900,
+      529
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      960,
+      549
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

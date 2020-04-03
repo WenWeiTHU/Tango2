@@ -1,0 +1,46 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/Game/Map.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, 'ad735tfp8hJar9OkRuTB6K8', 'Map', __filename);
+// scripts/Game/Map.js
+
+"use strict";
+
+/*
+ * 地图脚本
+ */
+
+cc.Class({
+  extends: cc.Component,
+
+  properties: {},
+
+  // LIFE-CYCLE CALLBACKS:
+
+  /*
+     * 初始化函数
+     * 功能：初始化脚本所需设定
+     */
+  onLoad: function onLoad() {
+    // 开启碰撞检测
+    this.collidManager = cc.director.getCollisionManager();
+    this.collidManager.enabled = true;
+  },
+  onCollisionEnter: function onCollisionEnter(other, self) {},
+  start: function start() {}
+
+  // update (dt) {},
+
+});
+
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=Map.js.map
+        

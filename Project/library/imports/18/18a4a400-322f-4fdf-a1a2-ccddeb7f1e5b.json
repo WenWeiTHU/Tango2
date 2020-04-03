@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blast17",
+    "texture": "304385b7-60ab-462b-be55-c4f8a3441aa0",
+    "atlas": "",
+    "rect": [
+      66,
+      66,
+      349,
+      348
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      480
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

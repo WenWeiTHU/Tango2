@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blast10",
+    "texture": "1269dd29-ea0e-4fd7-aec3-6c010fd2dac1",
+    "atlas": "",
+    "rect": [
+      108,
+      107,
+      265,
+      266
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      480
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

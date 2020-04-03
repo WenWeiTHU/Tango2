@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Stage8",
+    "texture": "9de48231-a23c-4c46-81d2-5d9fd4d0d742",
+    "atlas": "",
+    "rect": [
+      29,
+      2,
+      292,
+      173
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      350,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

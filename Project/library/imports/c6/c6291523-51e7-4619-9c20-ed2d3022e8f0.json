@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "player_hit",
+  "_objFlags": 0,
+  "_native": ".wav",
+  "loadMode": 0
+}

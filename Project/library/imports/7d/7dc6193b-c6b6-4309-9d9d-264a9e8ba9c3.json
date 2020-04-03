@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "copter_fly",
+    "texture": "3d84b0e8-ece7-4d14-8829-a0be96726a0d",
+    "atlas": "",
+    "rect": [
+      12,
+      134,
+      276,
+      44
+    ],
+    "offset": [
+      0,
+      -6
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

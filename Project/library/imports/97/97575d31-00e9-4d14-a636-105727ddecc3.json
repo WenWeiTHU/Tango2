@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bulletBreak09",
+    "texture": "8d5f8bec-eb60-452d-9220-b5d238b4559e",
+    "atlas": "",
+    "rect": [
+      116,
+      56,
+      278,
+      217
+    ],
+    "offset": [
+      15,
+      39.5
+    ],
+    "originalSize": [
+      480,
+      408
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suvive",
+    "texture": "a92d99ff-781b-4d00-bb45-b87d795a0b10",
+    "atlas": "",
+    "rect": [
+      23,
+      2,
+      234,
+      138
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      280,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

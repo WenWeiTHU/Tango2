@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map_Her",
+    "texture": "ab5b2cf0-b4e9-4da5-8801-9c8b83f649bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

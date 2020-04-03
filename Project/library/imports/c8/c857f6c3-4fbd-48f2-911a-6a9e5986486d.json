@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Stage7",
+    "texture": "a8f0f679-dc51-44fa-9440-6d3a747228cd",
+    "atlas": "",
+    "rect": [
+      29,
+      2,
+      292,
+      173
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      350,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
